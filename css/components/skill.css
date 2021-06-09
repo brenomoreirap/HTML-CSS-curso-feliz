@@ -1,0 +1,25 @@
+.skill {
+    display: flex;
+    font-family: "Montserrat";
+    color: white;
+    font-size: 40px;
+}
+
+.skill .icon {
+    margin-right: 25px;
+    height: 120px;
+    width: 120px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.skill .right {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.title {
+    margin: 0;
+    margin-bottom: 20px;
+}

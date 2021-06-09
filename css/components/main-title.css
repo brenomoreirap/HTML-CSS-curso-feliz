@@ -1,11 +1,11 @@
-.title {
+.main-title {
     font-family: "Montserrat", sans-serif;
     font-size: 65px;
     color: white;
     text-shadow: 5px 5px 5px black;
 }
 
-.title.-second {
+.main-title.-second {
     text-shadow: none;
     margin: 0;
     text-align: center;
