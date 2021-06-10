@@ -2,13 +2,14 @@
     display: flex;
     font-family: "Montserrat";
     color: white;
-    font-size: 40px;
+    font-size: 30px;
+    align-items: center;
 }
 
 .skill .icon {
     margin-right: 25px;
-    height: 120px;
-    width: 120px;
+    height: 95px;
+    width: 95px;
     margin-top: auto;
     margin-bottom: auto;
 }
@@ -16,7 +17,6 @@
 .skill .right {
     display: flex;
     flex-direction: column;
-    
 }
 
 .title {
